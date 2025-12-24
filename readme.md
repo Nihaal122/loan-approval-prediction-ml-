@@ -99,8 +99,3 @@ https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-datase
 **Nihaal Khanna**  
 GitHub: https://github.com/Nihaal122  
 
----
-
-## 📌 Resume Description
-
-> Built a machine learning model to predict loan approval status using applicant financial data, applying data preprocessing, feature encoding, and classification with evaluation metrics on a real-world Kaggle dataset.
